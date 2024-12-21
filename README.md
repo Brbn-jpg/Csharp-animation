@@ -1,3 +1,3 @@
 # Quick C# animation
 
-Made mainly for school but also to teach myself smth
+Made it to teach myself animating in c#
